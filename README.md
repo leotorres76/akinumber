@@ -1,2 +1,0 @@
-# akinumber
-Created with CodeSandbox
